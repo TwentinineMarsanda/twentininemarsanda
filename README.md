@@ -1,5 +1,4 @@
 ### Hi there 👋
-this cat is so cute, right?
 
 <br/>
 
