@@ -10,9 +10,6 @@
 
 <br/>
 
-https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-
-<br/>
 
 <p align="center" style="height: 180px;">
     <img style="height:10rem" src="https://github-readme-stats.vercel.app/api?username=Niefee&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&theme=radical" />
