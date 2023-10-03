@@ -1,10 +1,6 @@
 ### Hi there 👋
 this cat is so cute, right?
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
-</div>
-
 <br/>
 
 - 🌱 My name is **Twentinine**, u can call me candy, welcome to my GitHub home page
